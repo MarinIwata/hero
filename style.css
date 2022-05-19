@@ -1,7 +1,7 @@
-body {
+body {    
+}
+.page {
     background-color: #FFC44A;
-    width: 1440px;
-    height: 4227px;
 }
 .left-header img {
     display: block;
@@ -29,8 +29,7 @@ body {
 }
 .logo4 {
     /* position: absolute; */
-    width: 1440px;
-    height: 2421.21px;
+    width: 100%;
     left: 0px;
     top: 1203.25px;
 }
@@ -78,8 +77,6 @@ body {
 }
 .concept .logo13 {
     position: relative;
-    width: 1440px;
-    height: 620px;
     z-index: 50;
 }
 .concept .main-title {
